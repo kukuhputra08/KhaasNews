@@ -1,6 +1,6 @@
 import { useEffect, useMemo, useState } from "react";
 import { categories } from "../data/categories";
-import { getNews } from "../services/newsApi";
+import { getNews } from "../services/newsAPI";
 import Navbar from "../components/Navbar";
 import CategoryFilter from "../components/CategoryFilter";
 import HeroNews from "../components/HeroNews";
