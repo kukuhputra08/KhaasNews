@@ -4,8 +4,8 @@ import { getNews } from "../services/newsApi";
 import Navbar from "../components/Navbar";
 import CategoryFilter from "../components/CategoryFilter";
 import HeroNews from "../components/HeroNews";
-import NewsGrid from "../components/NewsGrid";
-import SkeletonGrid from "../components/SkeletonGrid";
+import NewsGrid from "../components/Newsgrid";
+import SkeletonGrid from "../components/Skeletongrid";
 import Footer from "../components/Footer";
 
 function Home() {
